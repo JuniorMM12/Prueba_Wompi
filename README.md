@@ -13,7 +13,7 @@ https://github.com/jumosqu12/ScreenplayArchitecture
 # Comando de ejecucion 
 ./gradlew clean test o Usar Junit
 
-# Arquitectura de orueba y servicios
+# Arquitectura de prueba y servicios
 
 <img src="./assets/Flujo_prueba_wompi.jpg">
 
