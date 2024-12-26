@@ -1,0 +1,24 @@
+{
+  "acceptance_token": "$acceptanceToken",
+  "accept_personal_auth": "$acceptPersonalAuth",
+  "signature": "$signature",
+  "amount_in_cents": "$amount",
+  "currency": "COP",
+  "taxes": [],
+  "payment_method": {
+    "type": "$typePayment",
+    "payment_description": "$paymentDescription",
+    "user_type": "$usertype",
+    "sandbox_status": "$sandboxStatus"
+  },
+  "redirect_url": "$redirecturl",
+  "reference": "$reference",
+  "expiration_time": "$expirationTime",
+  "customer_data": {
+    "phone_number": "$phoneNumber",
+    "full_name": "$fullName"
+  },
+  "customer_email": "$customerEmail",
+  "payment_method_type": "$typePayment",
+  "customer_number_prefix": "+57"
+}
